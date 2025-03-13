@@ -35,7 +35,7 @@
 ## Imagem do Projeto
 
 ### **Hello World**
-![Hello World](https://github.com/seu-usuario/spring-boot-api/blob/main/imgweb/hello-world.png)
+![Hello World](https://github.com/viniciusalexandre2/arquitetura-web/blob/main/imgweb/Hello%20Word.png)
 
 ---
 
