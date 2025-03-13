@@ -14,7 +14,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
-	@GetMapping("/api/hello1")
+	@GetMapping("/api/vinicius")
 	public String hello(){
 		return "Hello Word!";
 	}
