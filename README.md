@@ -1,54 +1,28 @@
-# Spring-Boot-API
-# <p align="center">🚀 API Spring Boot</p>
+# Spring Boot API
+<p align="center">
+  <img src="https://github.com/viniciusalexandre2/arquitetura-web/blob/main/imgweb/Hello%20Word.png" alt="Hello Word" />
+</p>
 
-### Projeto de API simples com Spring Boot.
+## Tecnologias Utilizadas
+- Java 17+
+- Spring Boot
+- Maven
 
----
+## Estrutura do Projeto
 
-## Como Rodar o Projeto
+O projeto contém duas classes principais:
 
-1. **Clone o repositório**:
-    ```bash
-    git clone https://github.com/seu-usuario/spring-boot-api.git
-    ```
+- **DemoApplication.java**  
+  Classe principal que inicia a aplicação Spring Boot. Contém o endpoint:
+  - **GET** `/api/vinicius` → Retorna "Hello Word!".
 
-2. **Navegue até o diretório do projeto**:
-    ```bash
-    cd spring-boot-api
-    ```
+- **HelloController.java**  
+  Classe que define um endpoint:
+  - **GET** `/vinicius` → Retorna "hello world".
 
-3. **Inicie a aplicação Spring Boot**:
-    ```bash
-    mvn spring-boot:run
-    ```
+## Como Executar o Projeto
 
-4. **Acesse o endpoint**:
-    Abra seu navegador e acesse:
-    ```
-    http://localhost:8080/api/vinicius
-    ```
+1. Clone o repositório:  
+   ```bash
+   C:\Users\Vinicius\Downloads\demo
 
-    Você verá a mensagem: **Hello Word!**
-
----
-
-## Imagem do Projeto
-
-### **Hello World**
-![Hello World](https://github.com/viniciusalexandre2/arquitetura-web/blob/main/imgweb/Hello%20Word.png)
-
----
-
-## Versionamento
-
-- **Git** - Controle de versão.
-- **Repositório**: [spring-boot-api](https://github.com/seu-usuario/spring-boot-api)
-
----
-
-## Desenvolvedor
-
-- **Seu Nome**  
-    - GitHub: [seu-usuario](https://github.com/seu-usuario)
-
----
