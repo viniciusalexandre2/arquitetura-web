@@ -30,7 +30,4 @@ Antes de executar o projeto, certifique-se de ter instalado:
 - **Navegador** ou **Postman** para testar os endpoints
 
 ## Como Executar o Projeto
-
-1. **Clone o repositório:**
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
+Acesse o navegador e utilize o seguinte endereço: http://localhost:8080/api/vinicius Após acessá-lo a mensagem "Hello world" será exibida
